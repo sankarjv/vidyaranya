@@ -1,0 +1,38 @@
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-align: justify;
+}
+a.nav {  color: #055589; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; text-decoration: none}
+A.nav:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: #007709; text-decoration: none}
+.normaltxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #333333;
+}
+.header1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FF6600;
+}
+.normaltxtbold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #333333;
+}
+.headers {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #003366;
+}
+body {
+	background-image: url(images/hr_bg.jpg);
+	background-repeat: repeat-y;
+}
